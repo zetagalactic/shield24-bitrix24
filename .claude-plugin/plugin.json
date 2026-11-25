@@ -1,0 +1,13 @@
+{
+  "name": "shield24-bitrix24",
+  "version": "0.1.0",
+  "description": "Work with your Bitrix24 portal from Claude through the OIA Shield24 connector: search and update CRM deals, contacts, companies and leads, and manage tasks, with your portal admin's permissions and your own Bitrix24 rights.",
+  "author": {
+    "name": "InfinityBHT",
+    "url": "https://github.com/zetagalactic"
+  },
+  "homepage": "https://github.com/zetagalactic/shield24-bitrix24",
+  "repository": "https://github.com/zetagalactic/shield24-bitrix24",
+  "license": "MIT",
+  "keywords": ["bitrix24", "crm", "tasks", "mcp", "connector"]
+}

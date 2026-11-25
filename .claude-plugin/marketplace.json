@@ -1,0 +1,17 @@
+{
+  "name": "shield24-bitrix24",
+  "owner": {
+    "name": "InfinityBHT",
+    "url": "https://github.com/zetagalactic"
+  },
+  "metadata": {
+    "description": "The shield24-bitrix24 plugin: Bitrix24 for Claude through the OIA Shield24 connector."
+  },
+  "plugins": [
+    {
+      "name": "shield24-bitrix24",
+      "source": "./",
+      "description": "Work with your Bitrix24 portal from Claude through the OIA Shield24 connector."
+    }
+  ]
+}

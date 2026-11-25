@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shield24-bitrix24": {
+      "type": "http",
+      "url": "https://oia-shield24.infinitybht.app/mcp"
+    }
+  }
+}
